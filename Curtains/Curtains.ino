@@ -40,8 +40,8 @@ uint16_t def_step_delay_mks = 1500;
 #define FAV_FILE "/favicon.ico"
 #define CLASS_FILE "/styles.css"
 #define PIN_SWITCH 14
-#define PIN_A 4
-#define PIN_B 5
+#define PIN_A 5
+#define PIN_B 4
 #define PIN_C 13
 #define PIN_D 12
 #define DIR_UP (-1)
